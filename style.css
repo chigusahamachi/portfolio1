@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+html {
+  background: white;
+}
+.logo {
+  width: 290px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1400px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 35px;
+}
+.list a {
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+}
+.list a:hover {
+  color: #4682b4;
+}
+.main {
+ margin-top: 100px;
+ display: flex;
+ justify-content: center;
+}
+.me {
+  max-width: 500px;
+  text-align: center;
+  margin-left: 50px;
+}
+.wrapper {
+  margin-top: 50px;
+  text-align: center;
+}
+.read {
+  margin-top: 10px;
+}
+.button {
+  color: black
+}
+.button:hover {
+  color: #4682b4
+}
+.blog {
+  margin-top: 50px;
+  margin-left: 270px;
+  font-size: 60px;
+}
+.content {
+  width: 450px;
+  height: 300px;
+  object-fit: cover;
+}
+.picture {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.blog-content {
+  font-size: 15px;
+  font-weight: lighter;
+}
+.blog-content a {
+  text-decoration: none;
+  color: black;
+}
+.blog-content a:hover {
+  color: #4682b4;
+}
+.container {
+  background: url(../background.jpg) right 100% bottom 100% / 800px no-repeat,
+  url(../background.about.jpg) left 100% top 75% / 800px no-repeat;
+  padding-bottom: 100px;
+  padding-top: 1px;
+}
+.footer {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+
+
+/*about*/
+.background2 {
+  background-image: url(../background.about.jpg);
+  background-size: cover;
+  padding-top: 1px;
+  padding-bottom: 50px;
+}
+.me2 {
+  height: 200px;
+  width: 200px;
+  margin-top: 15px;
+}
+.wrapper2 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.main2 {
+ display: flex;
+ justify-content: center;
+ text-align: center;
+}
+.aboutme {
+  max-width: 700px;
+  text-align: justify;
+  margin-left: 50px;
+  line-height: 110%;
+}
+.list1 {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+.year1 {
+  list-style: "2018：";
+  margin-left: 50px;
+  margin-top: -20px;
+}
+.year2 {
+  list-style: "2019：";
+  margin-left: 50px;
+  margin-top: 5px;
+}
+.year3 {
+  list-style: "2020：";
+  margin-left: 50px;
+  margin-top: 5px;
+}
+.year4 {
+  list-style: "2021：";
+  margin-left: 50px;
+  margin-top: 5px;
+}
+.year5 {
+  list-style: "2022：";
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+
+/*contact*/
+.background3 {
+  background-image: url(../background.about.jpg);
+  background-size: cover;
+  padding-top: 1px;
+  width: 100%;
+  height: 100vh;
+}
+.wrapper3{
+  text-align: center;
+}
+.mail {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+.sns {
+  width: 100px;
+  height: 90px;
+  margin-left: 20px;
+}
