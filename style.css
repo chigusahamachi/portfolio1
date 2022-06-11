@@ -77,8 +77,8 @@ html {
   color: #4682b4;
 }
 .container {
-  background: url(../background.jpg) right 100% bottom 100% / 800px no-repeat,
-  url(../background.about.jpg) left 100% top 75% / 800px no-repeat;
+  background: url(https://github.com/chigusahamachi/portfolio1/blob/main/background.jpg?raw=true) right 100% bottom 100% / 800px no-repeat,
+  url(https://github.com/chigusahamachi/portfolio1/blob/main/background.about.jpg?raw=true) left 100% top 75% / 800px no-repeat;
   padding-bottom: 100px;
   padding-top: 1px;
 }
