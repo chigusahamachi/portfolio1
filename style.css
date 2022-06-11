@@ -91,7 +91,7 @@ html {
 
 /*about*/
 .background2 {
-  background-image: url(../background.about.jpg);
+  background-image: url(https://github.com/chigusahamachi/portfolio1/blob/main/background.about.jpg?raw=true);
   background-size: cover;
   padding-top: 1px;
   padding-bottom: 50px;
@@ -150,7 +150,7 @@ html {
 
 /*contact*/
 .background3 {
-  background-image: url(../background.about.jpg);
+  background-image: url(https://github.com/chigusahamachi/portfolio1/blob/main/background.about.jpg?raw=true);
   background-size: cover;
   padding-top: 1px;
   width: 100%;
